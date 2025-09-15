@@ -1,0 +1,12 @@
+# Build and distribution folders
+dist/
+build/
+*.spec
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environments
+.venv/
+.env/
