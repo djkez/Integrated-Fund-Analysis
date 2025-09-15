@@ -1,6 +1,9 @@
 # Integrated-Fund-Analysis
 Integrated Fund Analysis is a Python-based tool that helps investors evaluate investment funds through data downloads, factor regressions, performance analysis, and charting. It is designed for evidence-based investing research and produces both graphical outputs and neatly formatted summaries.
 
+# Important! 
+You will need to download Fama/French 5 Factors (2x3) from Ken French's website. https://mba.tuck.dartmouth.edu/pages/faculty/ken.french/data_library.html
+
 # Features
 
 📈 Fund Data Download — automatically fetches historical data from Yahoo Finance.
