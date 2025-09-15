@@ -1,0 +1,11 @@
+Libraries required
+
+yfinance
+pandas
+numpy
+matplotlib
+statsmodels
+Pillow
+python-dateutil
+pytesseract
+certifi
