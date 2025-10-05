@@ -39,5 +39,5 @@ Students of finance who want a hands-on way to explore performance and factor mo
 
 ## Run with Python instead (developers)
 ```bash
-pip install -r requirements.txt
+pip install -r Libraries Required.txt
 python "Integrated Fund Analysis.py"
