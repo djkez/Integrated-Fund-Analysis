@@ -34,7 +34,8 @@ Students of finance who want a hands-on way to explore performance and factor mo
 
 ## Run without Python
 1. Go to **Releases** (right side of the repo page).
-2. Double-click `Integrated Fund Analysis.exe`.
+2. Download the `Integrated Fund Analysis.exe`. file.
+3. Double-click `Integrated Fund Analysis.exe`.
 
 ## Run with Python instead (developers)
 ```bash
