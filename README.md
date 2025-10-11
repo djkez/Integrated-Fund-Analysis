@@ -1,6 +1,8 @@
 # Integrated-Fund-Analysis
 Integrated Fund Analysis is a Python-based tool that helps investors evaluate investment funds through data downloads, factor regressions and performance analysis. It is designed for evidence-based investing research and produces both graphical outputs and neatly formatted summaries.
 
+You can also use the Emerging Markets (EM) versions of the Fama-French factors. To do this, download the Emerging Markets 5 Factors (2x3) from Ken French’s Data Library and extract the monthly CSV. Be careful when labelling the regression analysis so you know whether you have regressed a fund against the developed or emerging Fama-French factors.
+
 # Important! 
 You will need to download Fama/French 5 Factors (2x3) from Ken French's website. https://mba.tuck.dartmouth.edu/pages/faculty/ken.french/data_library.html
 
