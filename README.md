@@ -60,7 +60,7 @@ If you saved it into your Documents\Python Programs folder, type:
 
 cd "C:\Users\Kiera\Documents\Python Programs"
 
-(Replace the path with wherever merge_ff_momentum.py actually is for you.)
+(Replace the path with wherever Merge.FF.CSVs.py actually is for you.)
 
 **3. Run the script with your two CSV files**
 
