@@ -66,7 +66,7 @@ cd "C:\Users\Kiera\Documents\Python Programs"
 
 Example command:
 
-python Merge.FF.CSVs.py "F-F_Research_Data_5_Factors_2x3.csv" "F-F_Momentum_Factor.csv" -o merged_ff_5f_plus_mom.csv
+python "C:\Users\Kiera\Documents\Python Programs\Fund Analysis Tool\Merge FF CSVs.py" "C:\Users\Kiera\Documents\Python Programs\Fund Analysis Tool\F-F_Research_Data_5_Factors_2x3.csv" "C:\Users\Kiera\Documents\Python Programs\Fund Analysis Tool\F-F_Momentum_Factor.csv" -o "C:\Users\Kiera\Documents\Python Programs\Fund Analysis Tool\Merged_FF5_MOM.csv"
 
 Explanation:
 
@@ -76,7 +76,7 @@ Merge.FF.CSVs.py → runs the script
 
 "F-F_Momentum_Factor.csv" → the momentum factor file
 
--o merged_ff_5f_plus_mom.csv → output filename (you can rename it if you want)
+-o "Merged_FF5_MOM.csv" → output filename (you can rename it if you want)
 
 **4. If you get an Excel pop-up when inspecting the new merged file**
 
