@@ -9,7 +9,7 @@ You can also use the Emerging Markets (EM) versions of the Fama-French factors. 
 You will need to download Fama/French 5 Factors (2x3) and (optionally) the Momentum Factor (Mom) from Ken French's website and (optionally) merge the two files.
 https://mba.tuck.dartmouth.edu/pages/faculty/ken.french/data_library.html
 
-If you only wish to regress against the five factors, please download and use version 1.0.1. If you wish to use the six factors, use version 1.0.2.
+If you only wish to regress against the five factors, please download and use version 1.0.1. If you wish to use the six factors, use version 1.0.2. I would advise using the six-factor version to gain more insight.
 
 # Features
 
