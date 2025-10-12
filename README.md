@@ -39,7 +39,7 @@ Students of finance who want a hands-on way to explore performance and factor mo
 
 # Merging
 
-This repo includes a small utility, Merge_FF_Momentum.py, that combines the monthly Fama–French 2×3 factor file with the Momentum file from Kenneth French’s Data Library so you can run six-factor analysis on aligned dates.
+This repo includes a small utility, Merge.FF.CSVs.py, that combines the monthly Fama–French 2×3 factor file with the Momentum file from Kenneth French’s Data Library so you can run six-factor analysis on aligned dates.
 
 Get the two input files (monthly)
 
@@ -66,11 +66,11 @@ cd "C:\Users\Kiera\Documents\Python Programs"
 
 Example command:
 
-python merge_ff_momentum.py "F-F_Research_Data_5_Factors_2x3.csv" "F-F_Momentum_Factor.csv" -o merged_ff_5f_plus_mom.csv
+python Merge.FF.CSVs.py "F-F_Research_Data_5_Factors_2x3.csv" "F-F_Momentum_Factor.csv" -o merged_ff_5f_plus_mom.csv
 
 Explanation:
 
-python merge_ff_momentum.py → runs the script
+Merge.FF.CSVs.py → runs the script
 
 "F-F_Research_Data_5_Factors_2x3.csv" → your 5-factor file
 
