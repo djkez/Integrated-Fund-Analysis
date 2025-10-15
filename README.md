@@ -112,6 +112,8 @@ Date, Mkt-RF, SMB, HML, RMW, CMA, MOM, RF
 
 # Download the latest Windows executable from the **Releases** tab.
 
+A standalone Windows .exe is provided under Releases so the tool can be run without a Python installation.
+
 ## Run without Python
 1. Go to **Releases** (right side of the repo page).
 2. Download the `Integrated Fund Analysis.exe`. file.
